@@ -1,0 +1,27 @@
+.*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    text-align: center;
+    background-color:rgb(253, 191, 87);
+}
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+.precio, adornos > .precio{
+    text-align: right;
+}
+.existencia{
+    text-align: right;
+}
+.contacto{
+    background-color: antiquewhite;
+}
+table{
+    padding: 5px;
+}
